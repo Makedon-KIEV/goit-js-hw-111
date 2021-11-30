@@ -13,7 +13,7 @@
     "url": "git+https://github.com/Makedon-KIEV/goit-js-11.git"
   },
   "keywords": [],
-  "author": " ;) ",
+  "author": "Alexander Repeta <alexander.repeta@gmail.com>",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/Makedon-KIEV/goit-js-11/issues"
@@ -24,10 +24,5 @@
     "parcel-plugin-nuke-dist": "^1.0.1",
     "posthtml-include": "^1.6.2",
     "sass": "^1.32.8"
-  },
-  "dependencies": {
-    "axios": "^0.24.0",
-    "notiflix": "^3.2.2",
-    "simplelightbox": "^2.10.1"
   }
 }
